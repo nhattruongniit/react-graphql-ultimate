@@ -15,7 +15,7 @@ $ npm run serve
 ## React Client
 
 ```bash
-cd client
+cd react-clients
 
 # install dependecy
 $ npm install
